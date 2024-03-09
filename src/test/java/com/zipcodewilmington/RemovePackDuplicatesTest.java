@@ -14,7 +14,6 @@ public class RemovePackDuplicatesTest {
         Assert.assertEquals(expected, actual);
     }
 
-
     @Test
     public void testRemovePackDuplicates2() {
         String[] array = {"t", "t", "q", "a", "a", "a", "b", "c", "c", "a", "a", "d", "e", "e", "e"};
